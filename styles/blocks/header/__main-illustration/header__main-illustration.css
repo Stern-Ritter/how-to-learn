@@ -4,5 +4,7 @@
   position: absolute;
   bottom: 0;
   right: 0;
+  object-fit: contain;
+  object-position: right bottom;
   z-index: 1;
 }
